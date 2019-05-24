@@ -1,2 +1,2 @@
 # CSE20
-Intro to Computing
+Intro to Computing I
